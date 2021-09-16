@@ -1,4 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo"https://logodownload.org/wp-content/uploads/2019/12/tv-gazeta-logo-4.png"group-title="Tv Aberta ",Gazeta
-https://playback2.akamaized.net/streams/5381476_8947634_lsi6xobljufd8tr14ij_1/exp=1631892828~acl=%2f*~data=hdntl~hmac=ab2a66b50fc1f234471109864451747944b93e629cf5db641153b2df850a0e4c/media/5381476_8947634_lsi6xobljufd8tr14ij_1@2320000pb.m3u8?dw=80&ts=1631804400
+#EXTINF:-1 tvg-logo"https://vizer.tv/content/movies/posterPt/342/29957.webp"group-title="Filmes",JUSTIÇA EM FAMÍLIA 2021 
+https://867323673.tapecontent.net/radosgw/6eLd8MbPYpsvzD/AHQhSs-wS0Uu1bN7k3PGQEFylg5tUncpYrC5sJ2iipzw0PqpSwrTmu4-XcU78wweyPJgTKSZfC9a-1TSjBOvci1SVOrxb4bWD6pg5ZSPGr7zSbc4zBROJdfp7WBhK2k8-G2B1CXIvZiSpCeYhNWmlUyIJ8cThU0k9X1lOW-pd3SsheVyxxc4NKM31jq9WaeTL41MGZ5gMzKT_lr7BAAAN8dTHSwwgnUmrnky_NTLDMKt-P04YA3OXZX8lxa-MNCV0DUiRL8CrK58r565XHBTu-mccuPNqcqo07yHYw/FiIEpOQVqW9snXU5.mp4?stream=1 
+
+#EXTINF:-1 tvg-logo"https://m.media-amazon.com/images/M/MV5BMTgzNTgzODU0NV5BMl5BanBnXkFtZTcwMjEyMjMzMQ@@._V1_.jpg"group-title="Filmes ",Pequena Miss Sunshine 2006
+https://www166.sbcdnvideo.com/hls/tysxeb2d4666j6cdab6bxhijey4rwysx2tqfxd6rwz64bwozgfu2a3vqoaoa/index-v1-a1.m3u8
+ 

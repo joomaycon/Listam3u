@@ -1,6 +1,5 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo"https://vizer.tv/content/movies/posterPt/342/29957.webp"group-title="Filmes",JUSTIÇA EM FAMÍLIA 2021
+#EXTINF:-1 type="video" group-title="Filmes",Justiçe em Familia 2021
 https://www.googleapis.com/drive/v3/files/1-74xFy4MnGqyGGW_HWHnxpHwYiHeos1F?alt=media&key=AIzaSyBrjDzRopvBDIsoMeVamRO9q_rXvAtT3UI
 
  

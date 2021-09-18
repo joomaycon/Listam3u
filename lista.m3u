@@ -355,53 +355,53 @@ http://watch.baixarapp.org/zeus/desenhos/456/32/dub/21.mp4
 #EXTINF:-1 tvg-logo""group-title="Seriados | Os Simpsons TP32",EP 22
 http://watch.baixarapp.org/zeus/desenhos/456/32/dub/22.mp4
 
-#EXTINF:-1 tvg-logo""group-title="Mairunovich S01",EP 01
+#EXTINF:-1 type="video" tvg-logo""group-title="Mairunovich S01",EP 01
 https://repackager.wixmp.com/video.wixstatic.com/video/b65a20_81f5049e26ff44b0a6d319d014c42ce7/720p/mp4/file.mp4/index-v1-a1.m3u8
 
-#EXTINF:-1 tvg-logo""group-title="Mairunovich S01",EP 02
+#EXTINF:-1 type="video" tvg-logo""group-title="Mairunovich S01",EP 02
 https://repackager.wixmp.com/video.wixstatic.com/video/b65a20_3c78553b0a7547249394927d579867c9/720p/mp4/file.mp4/index-v1-a1.m3u8
 
-#EXTINF:-1 tvg-logo""group-title="Mairunovich S01",EP 03
+#EXTINF:-1 type="video" tvg-logo""group-title="Mairunovich S01",EP 03
 https://repackager.wixmp.com/video.wixstatic.com/video/b65a20_3964295dd4d94b1f8a1c4fd4ba03b278/720p/mp4/file.mp4/index-v1-a1.m3u8
 
-#EXTINF:-1 tvg-logo""group-title="Mairunovich S01",EP 04
+#EXTINF:-1 type="video" tvg-logo""group-title="Mairunovich S01",EP 04
 https://repackager.wixmp.com/video.wixstatic.com/video/b65a20_5cab1f0107e04e5ca0f5332db7161190/720p/mp4/file.mp4/index-v1-a1.m3u8
 
-#EXTINF:-1 tvg-logo""group-title="Mairunovich S01",EP 05
+#EXTINF:-1 type="video" tvg-logo""group-title="Mairunovich S01",EP 05
 https://repackager.wixmp.com/video.wixstatic.com/video/b65a20_71d410ae940b4d5b9f3affef3ad7261c/720p/mp4/file.mp4/index-v1-a1.m3u8
 
-#EXTINF:-1 tvg-logo""group-title="Mairunovich S01",EP 06
+#EXTINF:-1 type="video" tvg-logo""group-title="Mairunovich S01",EP 06
 https://repackager.wixmp.com/video.wixstatic.com/video/b65a20_59114007417b4d358adee5e1c7561f9f/720p/mp4/file.mp4/index-v1-a1.m3u8
 
-#EXTINF:-1 tvg-logo""group-title="Mairunovich S01",EP 07
+#EXTINF:-1 type="video" tvg-logo""group-title="Mairunovich S01",EP 07
 https://www.googleapis.com/drive/v3/files/1tyNQ48lWcEM-tLm55nYuJhtU_DAkBIzg?alt=media&key=AIzaSyBrjDzRopvBDIsoMeVamRO9q_rXvAtT3UI
 
-#EXTINF:-1 tvg-logo""group-title="Mairunovich S01",EP 08
+#EXTINF:-1 type="video" tvg-logo""group-title="Mairunovich S01",EP 08
 https://www.googleapis.com/drive/v3/files/1BpWZHqsfeTlIAP5dTvLbBbyD2PCe8z57?alt=media&key=AIzaSyBrjDzRopvBDIsoMeVamRO9q_rXvAtT3UI
 
-##EXTINF:-1 tvg-logo""group-title="SquidS01",EP 01
+##EXTINF:-1 type="video" tvg-logo""group-title="SquidS01",EP 01
 https://video.wixstatic.com/video/637064_1daa26dffb284dd4ad84d739fb6e75b3/720p/mp4/file.mp4
 
-##EXTINF:-1 tvg-logo""group-title="SquidS01",EP 02
+##EXTINF:-1 type="video" tvg-logo""group-title="SquidS01",EP 02
 https://video.wixstatic.com/video/637064_e7ab8161cf5a4c6ea5cd2d1e024a51d9/720p/mp4/file.mp4
 
-##EXTINF:-1 tvg-logo""group-title="SquidS01",EP 03
+##EXTINF:-1 type="video" tvg-logo""group-title="SquidS01",EP 03
 https://video.wixstatic.com/video/637064_79687c7105b448f483174fe861190c9c/720p/mp4/file.mp4
 
-##EXTINF:-1 tvg-logo""group-title="SquidS01",EP 04
+##EXTINF:-1 type="video= tvg-logo""group-title="SquidS01",EP 04
 https://video.wixstatic.com/video/637064_d742c0a4640d497ba19b07c11fd05172/720p/mp4/file.mp4
 
-##EXTINF:-1 tvg-logo""group-title="SquidS01",EP 05
+##EXTINF:-1 type="video" tvg-logo""group-title="SquidS01",EP 05
 https://video.wixstatic.com/video/637064_6d9a925fe2174ee291ce89db7fdee797/720p/mp4/file.mp4
 
-##EXTINF:-1 tvg-logo""group-title="SquidS01",EP 06
+##EXTINF:-1 type="video" tvg-logo""group-title="SquidS01",EP 06
 https://video.wixstatic.com/video/637064_67074c1c8e4e4658a4fbaa20e6bf6197/720p/mp4/file.mp4
 
-##EXTINF:-1 tvg-logo""group-title="SquidS01",EP 07
+##EXTINF:-1 type="video" tvg-logo""group-title="SquidS01",EP 07
 https://video.wixstatic.com/video/637064_5af01138a138467c9fca4d9a93687ab0/720p/mp4/file.mp4
 
-##EXTINF:-1 tvg-logo""group-title="SquidS01",EP 08
+##EXTINF:-1 type="video" tvg-logo""group-title="SquidS01",EP 08
 https://video.wixstatic.com/video/637064_dc77f0720f5b4468841ff77edbc8c045/720p/mp4/file.mp4
 
-##EXTINF:-1 tvg-logo""group-title="SquidS01",EP 09
+##EXTINF:-1 type="video" tvg-logo""group-title="SquidS01",EP 09
 https://video.wixstatic.com/video/637064_66629be80ecb44968483bdd410db3c86/720p/mp4/file.mp4

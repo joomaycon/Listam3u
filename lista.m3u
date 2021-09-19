@@ -369,10 +369,10 @@ https://repackager.wixmp.com/video.wixstatic.com/video/b65a20_71d410ae940b4d5b9f
 #EXTINF:-1 type="video" tvg-logo""group-title="Mairunovich S01",EP 06
 https://repackager.wixmp.com/video.wixstatic.com/video/b65a20_59114007417b4d358adee5e1c7561f9f/720p/mp4/file.mp4/index-v1-a1.m3u8
 
-#EXTINF:-1 type="video" tvg-logo""group-title="Mairunovich S01",EP 07
+#EXTINF:-0 group-title="Mairunovich S01",EP 07
 https://www.googleapis.com/drive/v3/files/1tyNQ48lWcEM-tLm55nYuJhtU_DAkBIzg?alt=media&key=AIzaSyBrjDzRopvBDIsoMeVamRO9q_rXvAtT3UI
 
-#EXTINF:-1 type="video" tvg-logo""group-title="Mairunovich S01",EP 08
+#EXTINF:-0 group-title="Mairunovich S01",EP 08
 https://www.googleapis.com/drive/v3/files/1BpWZHqsfeTlIAP5dTvLbBbyD2PCe8z57?alt=media&key=AIzaSyBrjDzRopvBDIsoMeVamRO9q_rXvAtT3UI
 
 ##EXTINF:-1 type="video" tvg-logo""group-title="SquidS01",EP 01

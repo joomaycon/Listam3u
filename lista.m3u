@@ -401,3 +401,28 @@ https://video.wixstatic.com/video/637064_dc77f0720f5b4468841ff77edbc8c045/720p/m
 
 ##EXTINF:-1 type="video" tvg-logo""group-title="SquidS01",EP 09
 https://video.wixstatic.com/video/637064_66629be80ecb44968483bdd410db3c86/720p/mp4/file.mp4
+
+
+#EXTINF:-1 type="video" tvg-logo""group-title="Seriados | Katla",01
+http://s6.cinevision.top/online/thor/104157/1/dub/1.mp4
+
+#EXTINF:-1 type="video" tvg-logo""group-title="Seriados | Katla",02
+http://s6.cinevision.top/online/thor/104157/1/dub/2.mp4
+
+#EXTINF:-1 type="video" tvg-logo""group-title="Seriados | Katla",03
+http://s6.cinevision.top/online/thor/104157/1/dub/3.mp4
+
+#EXTINF:-1 type="video" tvg-logo""group-title="Seriados | Katla",04
+http://s6.cinevision.top/online/thor/104157/1/dub/4.mp4
+
+#EXTINF:-1 type="video" tvg-logo""group-title="Seriados | Katla",05
+http://s6.cinevision.top/online/thor/104157/1/dub/5.mp4
+
+#EXTINF:-1 type="video" tvg-logo""group-title="Seriados | Katla",06
+http://s6.cinevision.top/online/thor/104157/1/dub/6.mp4
+
+#EXTINF:-1 type="video" tvg-logo""group-title="Seriados | Katla",07
+http://s6.cinevision.top/online/thor/104157/1/dub/7.mp4
+
+#EXTINF:-1 type="video" tvg-logo""group-title="Seriados | Katla",08
+http://s6.cinevision.top/online/thor/104157/1/dub/8.mp4

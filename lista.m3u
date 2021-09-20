@@ -3,60 +3,6 @@
 #EXTINF:-1 , JOON Lista
 https://notname.com/mvjf.mp4
 
-#EXTINF:-1 group-title="Canais",Tv Diario
-https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZbZ3y6V8OOph51sGYhZN9i8)/dm/3/x7txn7q/s/live-2.m3u8
-
-#EXTINF:-1 group-title="Canais",Record Tv
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group-title="Canais",Record Tv 2
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
-
-#EXTINF:-1 group-title="Canais",SBT Interior
-https://5a1c76baf08c0.streamlock.net/sbtinterior/9orLt4JWJdBVRt1pHmq4o8RfAahQIKws/chunklist_w72836562.m3u8
-
-#EXTINF:-1 group-title="Canais",Band
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2041741271.m3u8
-
-#EXTINF:-1 group-title="Canais",Rede Brasil
-http://177.11.96.110:9080/hls/sictv.m3u8
-
-#EXTINF:-1 group-title="Canais",Rede tv pampa
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/chunklist_w820678324.m3u8
-
-#EXTINF:-1 group-title="Canais",Rede Tv Arapua
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/chunklist_w2105815766.m3u8
-
-#EXTINF:-1 group-title="Canais",Record News
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-
-#EXTINF:-1 group-title="Canais",Tv Brasil
-https://edge-pe-01.eduplay.rnp.br/media/ocp(r(SOtSyQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE)m(9_aJgQy6vdBcDy4kWlbW8Q)n(a(kLbutb9FljfAzjoWmXgS8Rnp6_GUlkq0)s(rRg)'a(T-aZqqGVQABm6ZHJp3tHyyjZ)s(fvc)))s(t(eT8)b(6P9w9Nu8wcNIUaKqkTKqXRWNHWIhMz8mxUoA4mgo1tqnqVYwaZMCmldOaMbaZB0n33FR3ttihZ1JvOivSGdZIuhde-5ZIl_f4tK0pFaa_lpv5gVXuaKHBhpJxYHQpAySe8UfuTry1gihrKpUq-DVrvTLAVcN_NYL-OR5gME)'t(ccA)b(Q_39q61nTExyyL-LZijmcTvd7twmucXBiaA)))/live_720_index.m3u8
-
-#EXTINF:-1 group-title="Canais",Nova Manchete
-https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
-
-#EXTINF:-1 group-title="Canais",Catve - Cultura (PR)
-https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
-
-#EXTINF:-1 group-title="Canais",Tv Parana
-http://200.189.113.201/hls/tve.m3u8
-
-#EXTINF:-1 group-title="Canais",Jangadeiro
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1003409106_b1000000.m3u8
-
-#EXTINF:-1 group-title="Canais",Tv Alternativa
-http://stmv8.conectastm.com/wagner1168/wagner1168/chunklist_w868290520.m3u8
-
-#EXTINF:-1 group-title="Canais",WEB TV CINE
-https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
-
-#EXTINF:-1 group-title="Canais",REDE CLONE TV
-https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/chunklist_w1418908987.m3u8
-
-#EXTINF:-1 group-title="Canais",Tela Viva TV
-https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w1508014130.m3u8
-
 #EXTINF:-1 group-title="Filmes",JustiemFami2021
 http://booster.auracineapp.fun/aurora/justicaemfamilia.mp4
 

@@ -3,6 +3,9 @@
 #EXTINF:-1 , JOON Lista
 https://notname.com/mvjf.mp4
 
+#EXTINF:-1 group-title="Canais",Tv Diario
+https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZbZ3y6V8OOph51sGYhZN9i8)/dm/3/x7txn7q/s/live-2.m3u8
+
 #EXTINF:-1 group-title="Canais",Record Tv
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
 

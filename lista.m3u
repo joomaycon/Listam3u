@@ -408,7 +408,76 @@ https://video.wixstatic.com/video/10f1ed_081fcdfb6072498db0d0f44be75cb5ba/1080p/
 #EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S011 E05" tvg-logo="" group-title="SERIES",The Walking Dead S011 E05
 https://video.wixstatic.com/video/10f1ed_8f132bd500624b94b156da809d0e1127/1080p/mp4/file.mp4
 
-#EXTINF:-1 type="video" description="DoramaC"  subtitles="https://dramaclub.com.br/wp-content/uploads/2020/07/My-Classmate-From-Far-Far-Away-EP01.srt",My Classmate  From Far Far Away S1 EP1
-#EXTSIZE: Medium
-#EXTBG: #774343
-https://txmov2.a.yximgs.com/upic/2020/09/27/23/BMjAyMDA5MjcyMzQ4MzFfMTg2NjYxNTMyOF8zNjcyMzA2NTU4Nl8yXzM=_b_B4ed52cbb29d6d9c2bea7cc1373d0015d.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="ARQUIVO X" tvg-logo="" group-title="ARQUIVO X",S4 EP1
+https://s4.gripe-ocore-nada-acotece.xyz/hls/NRPekQoN5hjpn4X_sRjpNg/1633119251/series/TheXFiles/dub-4-1/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARQUIVO X" tvg-logo="" group-title="ARQUIVO X",S4 EP2
+https://s4.gripe-ocore-nada-acotece.xyz/hls/NRPekQoN5hjpn4X_sRjpNg/1633119251/series/TheXFiles/dub-4-2/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARQUIVO X" tvg-logo="" group-title="ARQUIVO X",S4 EP3
+https://s4.gripe-ocore-nada-acotece.xyz/hls/NRPekQoN5hjpn4X_sRjpNg/1633119251/series/TheXFiles/dub-4-3/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARQUIVO X" tvg-logo="" group-title="ARQUIVO X",S4 EP4
+https://s4.gripe-ocore-nada-acotece.xyz/hls/NRPekQoN5hjpn4X_sRjpNg/1633119251/series/TheXFiles/dub-4-4/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARQUIVO X" tvg-logo="" group-title="ARQUIVO X",S4 EP5
+https://s4.gripe-ocore-nada-acotece.xyz/hls/NRPekQoN5hjpn4X_sRjpNg/1633119251/series/TheXFiles/dub-4-5/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARQUIVO X" tvg-logo="" group-title="ARQUIVO X",S4 EP6
+https://s4.gripe-ocore-nada-acotece.xyz/hls/NRPekQoN5hjpn4X_sRjpNg/1633119251/series/TheXFiles/dub-4-6/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARQUIVO X" tvg-logo="" group-title="ARQUIVO X",S4 EP7
+https://s4.gripe-ocore-nada-acotece.xyz/hls/NRPekQoN5hjpn4X_sRjpNg/1633119251/series/TheXFiles/dub-4-7/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARQUIVO X" tvg-logo="" group-title="ARQUIVO X",S4 EP8
+https://s4.gripe-ocore-nada-acotece.xyz/hls/NRPekQoN5hjpn4X_sRjpNg/1633119251/series/TheXFiles/dub-4-8/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARQUIVO X" tvg-logo="" group-title="ARQUIVO X",S4 EP9
+https://s4.gripe-ocore-nada-acotece.xyz/hls/NRPekQoN5hjpn4X_sRjpNg/1633119251/series/TheXFiles/dub-4-9/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARQUIVO X" tvg-logo="" group-title="ARQUIVO X",S4 EP10
+https://s4.gripe-ocore-nada-acotece.xyz/hls/NRPekQoN5hjpn4X_sRjpNg/1633119251/series/TheXFiles/dub-4-10/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARQUIVO X" tvg-logo="" group-title="ARQUIVO X",S4 EP11
+https://s4.gripe-ocore-nada-acotece.xyz/hls/NRPekQoN5hjpn4X_sRjpNg/1633119251/series/TheXFiles/dub-4-11/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARQUIVO X" tvg-logo="" group-title="ARQUIVO X",S4 EP12
+https://s4.gripe-ocore-nada-acotece.xyz/hls/NRPekQoN5hjpn4X_sRjpNg/1633119251/series/TheXFiles/dub-4-12/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARQUIVO X" tvg-logo="" group-title="ARQUIVO X",S4 EP13
+https://s4.gripe-ocore-nada-acotece.xyz/hls/NRPekQoN5hjpn4X_sRjpNg/1633119251/series/TheXFiles/dub-4-13/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARQUIVO X" tvg-logo="" group-title="ARQUIVO X",S4 EP14
+https://s4.gripe-ocore-nada-acotece.xyz/hls/NRPekQoN5hjpn4X_sRjpNg/1633119251/series/TheXFiles/dub-4-14/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARQUIVO X" tvg-logo="" group-title="ARQUIVO X",S4 EP15
+https://s4.gripe-ocore-nada-acotece.xyz/hls/NRPekQoN5hjpn4X_sRjpNg/1633119251/series/TheXFiles/dub-4-15/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARQUIVO X" tvg-logo="" group-title="ARQUIVO X",S4 EP16
+https://s4.gripe-ocore-nada-acotece.xyz/hls/NRPekQoN5hjpn4X_sRjpNg/1633119251/series/TheXFiles/dub-4-16/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARQUIVO X" tvg-logo="" group-title="ARQUIVO X",S4 EP17
+https://s4.gripe-ocore-nada-acotece.xyz/hls/NRPekQoN5hjpn4X_sRjpNg/1633119251/series/TheXFiles/dub-4-17/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARQUIVO X" tvg-logo="" group-title="ARQUIVO X",S4 EP18
+https://s4.gripe-ocore-nada-acotece.xyz/hls/NRPekQoN5hjpn4X_sRjpNg/1633119251/series/TheXFiles/dub-4-18/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARQUIVO X" tvg-logo="" group-title="ARQUIVO X",S4 EP19
+https://s4.gripe-ocore-nada-acotece.xyz/hls/NRPekQoN5hjpn4X_sRjpNg/1633119251/series/TheXFiles/dub-4-19/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARQUIVO X" tvg-logo="" group-title="ARQUIVO X",S4 EP20
+https://s4.gripe-ocore-nada-acotece.xyz/hls/NRPekQoN5hjpn4X_sRjpNg/1633119251/series/TheXFiles/dub-4-20/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARQUIVO X" tvg-logo="" group-title="ARQUIVO X",S4 EP21
+https://s4.gripe-ocore-nada-acotece.xyz/hls/NRPekQoN5hjpn4X_sRjpNg/1633119251/series/TheXFiles/dub-4-21/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARQUIVO X" tvg-logo="" group-title="ARQUIVO X",S4 EP22
+https://s4.gripe-ocore-nada-acotece.xyz/hls/NRPekQoN5hjpn4X_sRjpNg/1633119251/series/TheXFiles/dub-4-22/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARQUIVO X" tvg-logo="" group-title="ARQUIVO X",S4 EP23
+https://s4.gripe-ocore-nada-acotece.xyz/hls/NRPekQoN5hjpn4X_sRjpNg/1633119251/series/TheXFiles/dub-4-23/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARQUIVO X" tvg-logo="" group-title="ARQUIVO X",S4 EP24
+https://s4.gripe-ocore-nada-acotece.xyz/hls/NRPekQoN5hjpn4X_sRjpNg/1633119251/series/TheXFiles/dub-4-24/video.json/index-v1-a1.m3u8
+

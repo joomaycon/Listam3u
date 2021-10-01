@@ -652,5 +652,23 @@ https://video.wixstatic.com/video/cc7aad_60d284eeb02e4d449948d57cee579cec/720p/m
 #EXTINF:-1 tvg-id="" tvg-name="Superman & Lois" tvg-logo="" group-title="Superman & Lois",S01 EP015
 https://video.wixstatic.com/video/cc7aad_577320727f9d48d58caf83d7a9d13eac/720p/mp4/file.mp4
 
-#EXTINF:-1 ,COWBO
-https://dc1.betterserver.xyz/mb/C/Cowboy_Bebop_Dublado/1080p/BA_01.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIxIDI6MzQ6MjIgUE0maGFzaF92YWx1ZT14S0hRY1NNV0xpb0FPd0tYODJjSTl3PT0mdmFsaWRtaW51dGVzPTIxMCZzdHJtX2xlbj00MQ==
+#EXTINF:-1 tvg-id="" tvg-name="Cowboy Bebop - Dublado" tvg-logo="" group-title="Cowboy Bebop - Dublado",EP01
+https://dc1.betterserver.xyz/bs/C/Cowboy_Bebop_Dublado/1080p/BA_01.mp4/chunk.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIxIDI6NTU6MDAgUE0maGFzaF92YWx1ZT12WFE4d3dTSjNRenNPNmtOemd5S3FnPT0mdmFsaWRtaW51dGVzPTIxMCZzdHJtX2xlbj00MQ==
+#EXTINF:-1 tvg-id="" tvg-name="Cowboy Bebop - Dublado" tvg-logo="" group-title="Cowboy Bebop - Dublado",EP02
+https://dc1.betterserver.xyz/bs/C/Cowboy_Bebop_Dublado/1080p/BA_02.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIxIDI6NTg6MDQgUE0maGFzaF92YWx1ZT1BSnI0UUJlRjBkaTVnVnJXRVp3TDd3PT0mdmFsaWRtaW51dGVzPTIxMCZzdHJtX2xlbj00MQ==
+#EXTINF:-1 tvg-id="" tvg-name="Cowboy Bebop - Dublado" tvg-logo="" group-title="Cowboy Bebop - Dublado",EP03
+https://dc1.betterserver.xyz/bs/C/Cowboy_Bebop_Dublado/1080p/BA_03.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIxIDM6MDA6MjEgUE0maGFzaF92YWx1ZT1DT3IyOXo0V3NJOFFkVVQvTmh5U3lBPT0mdmFsaWRtaW51dGVzPTIxMCZzdHJtX2xlbj00MQ==
+#EXTINF:-1 tvg-id="" tvg-name="Cowboy Bebop - Dublado" tvg-logo="" group-title="Cowboy Bebop - Dublado",EP04
+https://dc1.betterserver.xyz/bs/C/Cowboy_Bebop_Dublado/1080p/BA_04.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIxIDM6MDI6MDcgUE0maGFzaF92YWx1ZT1KRHltVTk1Z1JDWjNLRk02cHR3OFVBPT0mdmFsaWRtaW51dGVzPTIxMCZzdHJtX2xlbj00MQ==
+#EXTINF:-1 tvg-id="" tvg-name="Cowboy Bebop - Dublado" tvg-logo="" group-title="Cowboy Bebop - Dublado",EP05
+https://dc1.betterserver.xyz/bs/C/Cowboy_Bebop_Dublado/1080p/BA_05.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIxIDM6MDI6MzUgUE0maGFzaF92YWx1ZT1NUm1EbnM4cEhFM1dIV201bU9nT1V3PT0mdmFsaWRtaW51dGVzPTIxMCZzdHJtX2xlbj00MQ==
+#EXTINF:-1 tvg-id="" tvg-name="Cowboy Bebop - Dublado" tvg-logo="" group-title="Cowboy Bebop - Dublado",EP06
+https://dc1.betterserver.xyz/bs/C/Cowboy_Bebop_Dublado/1080p/BA_06.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIxIDM6MDM6MjAgUE0maGFzaF92YWx1ZT1JemxOUllua09acDZrRDRZNkUweFBBPT0mdmFsaWRtaW51dGVzPTIxMCZzdHJtX2xlbj00MQ==
+#EXTINF:-1 tvg-id="" tvg-name="Cowboy Bebop - Dublado" tvg-logo="" group-title="Cowboy Bebop - Dublado",EP07
+https://dc1.betterserver.xyz/bs/C/Cowboy_Bebop_Dublado/1080p/BA_07.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIxIDM6MDM6NTEgUE0maGFzaF92YWx1ZT1QVHRPd2FJaE1OVFRBcUpDNHhsNnV3PT0mdmFsaWRtaW51dGVzPTIxMCZzdHJtX2xlbj00MQ==
+#EXTINF:-1 tvg-id="" tvg-name="Cowboy Bebop - Dublado" tvg-logo="" group-title="Cowboy Bebop - Dublado",EP08
+https://dc1.betterserver.xyz/bs/C/Cowboy_Bebop_Dublado/1080p/BA_08.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIxIDM6MDQ6MTcgUE0maGFzaF92YWx1ZT1GK0VTWS9CL1NGMHdoT3QxVWdVY1VRPT0mdmFsaWRtaW51dGVzPTIxMCZzdHJtX2xlbj00MQ==
+#EXTINF:-1 tvg-id="" tvg-name="Cowboy Bebop - Dublado" tvg-logo="" group-title="Cowboy Bebop - Dublado",EP09
+https://dc1.betterserver.xyz/bs/C/Cowboy_Bebop_Dublado/1080p/BA_09.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIxIDM6MDQ6NDQgUE0maGFzaF92YWx1ZT1GSklQdjhZV2lZa0VnY2VKYng5endRPT0mdmFsaWRtaW51dGVzPTIxMCZzdHJtX2xlbj00MQ==
+#EXTINF:-1 tvg-id="" tvg-name="Cowboy Bebop - Dublado" tvg-logo="" group-title="Cowboy Bebop - Dublado",EP010
+https://dc1.betterserver.xyz/bs/C/Cowboy_Bebop_Dublado/1080p/BA_10.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMS8yMDIxIDM6MDU6MDggUE0maGFzaF92YWx1ZT1wck01LzZrd3plZDZ0V1JRQ2ZwczRBPT0mdmFsaWRtaW51dGVzPTIxMCZzdHJtX2xlbj00MQ==

@@ -468,7 +468,8 @@ https://video.wixstatic.com/video/10f1ed_081fcdfb6072498db0d0f44be75cb5ba/1080p/
 https://video.wixstatic.com/video/10f1ed_8f132bd500624b94b156da809d0e1127/1080p/mp4/file.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S011 E06" tvg-logo="" group-title="SERIES",The Walking Dead S011 E06
 https://video.wixstatic.com/video/10f1ed_e63a22acc6b04792aca70ec31f69b4b2/1080p/mp4/file.mp4
-
+#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead S011 E07" tvg-logo="" group-title="SERIES",The Walking Dead S011 E07
+https://video.wixstatic.com/video/cc7aad_2f60e864f6184fa88830abb117d9d47f/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="ARQUIVO X" tvg-logo="" group-title="ARQUIVO X",S4 EP1
 https://s4.gripe-ocore-nada-acotece.xyz/hls/NRPekQoN5hjpn4X_sRjpNg/1633119251/series/TheXFiles/dub-4-1/video.json/index-v1-a1.m3u8

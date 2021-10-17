@@ -3,6 +3,12 @@
 #EXTINF:-1 , JOON Lista
 https://notname.com/mvjf.mp4
 
+#EXTINF:-1 group-title="FILMES", O Forasteiro 2003
+https://video.wixstatic.com/video/cc7aad_45e7b3015c59460891c17d5aa486e7f1/720p/mp4/file.mp4
+#EXTINF:-1 group-title="FILMES",O Forasteiro 2 2005
+https://video.wixstatic.com/video/cc7aad_015090f1b02946dfb1059e988573cc08/360p/mp4/file.mp4
+
+
 #EXTINF:-1 group-title="FILMES",Violet Evergarden: O Filme 2020
 https://video.wixstatic.com/video/cc7aad_d2cac00f3d884e089ba789ce435342e0/720p/mp4/file.mp4
 #EXTINF:-1 group-title="FILMES",Stitch! O Filme 2003
@@ -11,7 +17,6 @@ https://video.wixstatic.com/video/cc7aad_9672e3a3a5c0427bada51febcfb2d3b2/480p/m
 https://video.wixstatic.com/video/cc7aad_484f8557c20e440084144a7cb5a627d1/720p/mp4/file.mp4
 #EXTINF:-1 group-title="FILMES",Lilo & Stitch 2: Stitch Deu Defeito 2005
 https://video.wixstatic.com/video/cc7aad_a7dabaf1e68d40dba14e9b5db908ac8e/480p/mp4/file.mp4
-#EXTINF:-1 group-title="FILMES",
 #EXTINF:-1 group-title="FILMES",Leroy & Stitch
 https://video.wixstatic.com/video/cc7aad_facf7dba26b349028e0066e102a3f04e/720p/mp4/file.mp4
 #EXTINF:-1 group-title="FILMES",O Pacote 2021

@@ -2,7 +2,10 @@
 #EXTINF:-1 , JOON Lista
 https://notname.com/mvjf.mp4
 
-
+#EXTINF:-1 group-title="Filmes", Sem Conexão 2020
+https://video.wixstatic.com/video/cc7aad_eee6ba4832cb48c498bf7cf90df720f9/720p/mp4/file.mp4
+#EXTINF:-1 group-title="Filmes", Sem Conexão: Parte 2 2021
+https://video.wixstatic.com/video/cc7aad_2b9938db85b24ee398e762c2b6246abe/720p/mp4/file.mp4
 #EXTINF:-1 group-title="FILMES", Duna 2021
 https://video.wixstatic.com/video/cc7aad_3158e0a88d834002a153221d52a260bc/720p/mp4/file.mp4
 #EXTINF:-1 group-title="FILMES", Ripper Untold 2021

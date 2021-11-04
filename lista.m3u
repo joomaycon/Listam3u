@@ -1236,29 +1236,131 @@ http://experience.mediafive.xyz/token/02/456/31x22.mp4
 
 
 #EXTINF:-1 group-title="Kenan & Kel", S01 E01
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/episode/5f6a4780be75230014534819/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=6ce4497d-7f0b-4c1f-943a-c584dee5b989&deviceVersion=94.0.4606&appVersion=5.105.0-b62a54a1ce532c9291b0579779f0b19221e6d9fc&deviceType=web&deviceMake=chrome&sid=4bf530e3-3b70-11ec-b550-0242ac110003&advertisingId=&deviceLat=-2.9366&deviceLon=-40.8389&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjgwZWIzOTdhLTkyN2ItNGJjMy1iMjM2LTZmYTJmNGYzNTg4ZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI0YmY1MzBlMy0zYjcwLTExZWMtYjU1MC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS43LjIwNy41MCIsImNpdHkiOiJDYW1vY2ltIiwicG9zdGFsQ29kZSI6IjYyNDAwIiwiY291bnRyeSI6IkJSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJCUiIsImRldmljZUxhdCI6LTIuOTM2NiwiZGV2aWNlTG9uIjotNDAuODM4OSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiOTQuMC40NjA2IiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNS4wLWI2MmE1NGExY2U1MzJjOTI5MWIwNTc5Nzc5ZjBiMTkyMjFlNmQ5ZmMiLCJjbGllbnRJRCI6IjZjZTQ0OTdkLTdmMGItNGMxZi05NDNhLWM1ODRkZWU1Yjk4OSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0ZvcnRhbGV6YSIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2MzU4NDAyMDgsImp0aSI6IjJiMGU0NWExLTJiOGMtNDNhOC1iOWM2LTZjNzA5ZDU3NDJlZCIsImlhdCI6MTYzNTgxMTQwOCwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOk5tTmxORFE1TjJRdE4yWXdZaTAwWXpGbUxUazBNMkV0WXpVNE5HUmxaVFZpT1RnNSJ9.49vIHvQ5S3nXu5jGxQmDW9Gc28zBXokuuFK_qN4ot4Q
+https://video.wixstatic.com/video/75466b_b6add1e83dd14986aeca02c6a4717cfc/480p/mp4/file.mp4
 #EXTINF:-1 group-title="Kenan & Kel", S01 E02
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/episode/5f6a4780be752300145347d4/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=6ce4497d-7f0b-4c1f-943a-c584dee5b989&deviceVersion=94.0.4606&appVersion=5.105.0-b62a54a1ce532c9291b0579779f0b19221e6d9fc&deviceType=web&deviceMake=chrome&sid=4bf530e3-3b70-11ec-b550-0242ac110003&advertisingId=&deviceLat=-2.9366&deviceLon=-40.8389&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjgwZWIzOTdhLTkyN2ItNGJjMy1iMjM2LTZmYTJmNGYzNTg4ZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI0YmY1MzBlMy0zYjcwLTExZWMtYjU1MC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS43LjIwNy41MCIsImNpdHkiOiJDYW1vY2ltIiwicG9zdGFsQ29kZSI6IjYyNDAwIiwiY291bnRyeSI6IkJSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJCUiIsImRldmljZUxhdCI6LTIuOTM2NiwiZGV2aWNlTG9uIjotNDAuODM4OSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiOTQuMC40NjA2IiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNS4wLWI2MmE1NGExY2U1MzJjOTI5MWIwNTc5Nzc5ZjBiMTkyMjFlNmQ5ZmMiLCJjbGllbnRJRCI6IjZjZTQ0OTdkLTdmMGItNGMxZi05NDNhLWM1ODRkZWU1Yjk4OSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0ZvcnRhbGV6YSIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2MzU4NDAyMDgsImp0aSI6IjJiMGU0NWExLTJiOGMtNDNhOC1iOWM2LTZjNzA5ZDU3NDJlZCIsImlhdCI6MTYzNTgxMTQwOCwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOk5tTmxORFE1TjJRdE4yWXdZaTAwWXpGbUxUazBNMkV0WXpVNE5HUmxaVFZpT1RnNSJ9.49vIHvQ5S3nXu5jGxQmDW9Gc28zBXokuuFK_qN4ot4Q&app_name=web&clientDeviceType=0&clientID=6ce4497d-7f0b-4c1f-943a-c584dee5b989&clientModelNumber=1.0.0&country=BR&marketingRegion=BR&sessionID=4bf530e3-3b70-11ec-b550-0242ac110003&resumeAt=0&eventVOD=true&masterJWTPassthrough=true
+https://video.wixstatic.com/video/75466b_96955c8ebef148559cbe1a58c85de42c/480p/mp4/file.mp4
 #EXTINF:-1 group-title="Kenan & Kel", S01 E03
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/episode/5f6a4780be752300145347d4/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=6ce4497d-7f0b-4c1f-943a-c584dee5b989&deviceVersion=94.0.4606&appVersion=5.105.0-b62a54a1ce532c9291b0579779f0b19221e6d9fc&deviceType=web&deviceMake=chrome&sid=4bf530e3-3b70-11ec-b550-0242ac110003&advertisingId=&deviceLat=-2.9366&deviceLon=-40.8389&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjgwZWIzOTdhLTkyN2ItNGJjMy1iMjM2LTZmYTJmNGYzNTg4ZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI0YmY1MzBlMy0zYjcwLTExZWMtYjU1MC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS43LjIwNy41MCIsImNpdHkiOiJDYW1vY2ltIiwicG9zdGFsQ29kZSI6IjYyNDAwIiwiY291bnRyeSI6IkJSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJCUiIsImRldmljZUxhdCI6LTIuOTM2NiwiZGV2aWNlTG9uIjotNDAuODM4OSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiOTQuMC40NjA2IiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNS4wLWI2MmE1NGExY2U1MzJjOTI5MWIwNTc5Nzc5ZjBiMTkyMjFlNmQ5ZmMiLCJjbGllbnRJRCI6IjZjZTQ0OTdkLTdmMGItNGMxZi05NDNhLWM1ODRkZWU1Yjk4OSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0ZvcnRhbGV6YSIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2MzU4NDAyMDgsImp0aSI6IjJiMGU0NWExLTJiOGMtNDNhOC1iOWM2LTZjNzA5ZDU3NDJlZCIsImlhdCI6MTYzNTgxMTQwOCwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOk5tTmxORFE1TjJRdE4yWXdZaTAwWXpGbUxUazBNMkV0WXpVNE5HUmxaVFZpT1RnNSJ9.49vIHvQ5S3nXu5jGxQmDW9Gc28zBXokuuFK_qN4ot4Q&app_name=web&clientDeviceType=0&clientID=6ce4497d-7f0b-4c1f-943a-c584dee5b989&clientModelNumber=1.0.0&country=BR&marketingRegion=BR&sessionID=4bf530e3-3b70-11ec-b550-0242ac110003&resumeAt=0&eventVOD=true&masterJWTPassthrough=true
+https://video.wixstatic.com/video/75466b_9ebc2f4fd34545a981636e428f5442a2/480p/mp4/file.mp4
 #EXTINF:-1 group-title="Kenan & Kel", S01 E04
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/episode/5f6a4780be752300145347e5/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=6ce4497d-7f0b-4c1f-943a-c584dee5b989&deviceVersion=94.0.4606&appVersion=5.105.0-b62a54a1ce532c9291b0579779f0b19221e6d9fc&deviceType=web&deviceMake=chrome&sid=35246d9e-3b72-11ec-8799-0242ac110003&advertisingId=&deviceLat=-2.9366&deviceLon=-40.8389&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjgwZWIzOTdhLTkyN2ItNGJjMy1iMjM2LTZmYTJmNGYzNTg4ZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIzNTI0NmQ5ZS0zYjcyLTExZWMtODc5OS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS43LjIwNy41MCIsImNpdHkiOiJDYW1vY2ltIiwicG9zdGFsQ29kZSI6IjYyNDAwIiwiY291bnRyeSI6IkJSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJCUiIsImRldmljZUxhdCI6LTIuOTM2NiwiZGV2aWNlTG9uIjotNDAuODM4OSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiOTQuMC40NjA2IiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNS4wLWI2MmE1NGExY2U1MzJjOTI5MWIwNTc5Nzc5ZjBiMTkyMjFlNmQ5ZmMiLCJjbGllbnRJRCI6IjZjZTQ0OTdkLTdmMGItNGMxZi05NDNhLWM1ODRkZWU1Yjk4OSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0ZvcnRhbGV6YSIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2MzU4NDEwMzMsImp0aSI6IjM0MDFmMDEwLTA4Y2UtNDQ1Yy04MTk3LWUzMDM2ZjY3MTM1MSIsImlhdCI6MTYzNTgxMjIzMywiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOk5tTmxORFE1TjJRdE4yWXdZaTAwWXpGbUxUazBNMkV0WXpVNE5HUmxaVFZpT1RnNSJ9.IjA_Y_WwP-Nmug51GqHj3UlRcvDT7D3jLMlRCgi6Lq8
+https://video.wixstatic.com/video/75466b_bc1994b231764a0ca2078c8aadf0e9af/480p/mp4/file.mp4
 #EXTINF:-1 group-title="Kenan & Kel", S01 E05
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/episode/5f85a7d9740902001a952158/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=6ce4497d-7f0b-4c1f-943a-c584dee5b989&deviceVersion=94.0.4606&appVersion=5.105.0-b62a54a1ce532c9291b0579779f0b19221e6d9fc&deviceType=web&deviceMake=chrome&sid=35246d9e-3b72-11ec-8799-0242ac110003&advertisingId=&deviceLat=-2.9366&deviceLon=-40.8389&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjgwZWIzOTdhLTkyN2ItNGJjMy1iMjM2LTZmYTJmNGYzNTg4ZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIzNTI0NmQ5ZS0zYjcyLTExZWMtODc5OS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS43LjIwNy41MCIsImNpdHkiOiJDYW1vY2ltIiwicG9zdGFsQ29kZSI6IjYyNDAwIiwiY291bnRyeSI6IkJSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJCUiIsImRldmljZUxhdCI6LTIuOTM2NiwiZGV2aWNlTG9uIjotNDAuODM4OSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiOTQuMC40NjA2IiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNS4wLWI2MmE1NGExY2U1MzJjOTI5MWIwNTc5Nzc5ZjBiMTkyMjFlNmQ5ZmMiLCJjbGllbnRJRCI6IjZjZTQ0OTdkLTdmMGItNGMxZi05NDNhLWM1ODRkZWU1Yjk4OSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0ZvcnRhbGV6YSIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2MzU4NDEwMzMsImp0aSI6IjM0MDFmMDEwLTA4Y2UtNDQ1Yy04MTk3LWUzMDM2ZjY3MTM1MSIsImlhdCI6MTYzNTgxMjIzMywiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOk5tTmxORFE1TjJRdE4yWXdZaTAwWXpGbUxUazBNMkV0WXpVNE5HUmxaVFZpT1RnNSJ9.IjA_Y_WwP-Nmug51GqHj3UlRcvDT7D3jLMlRCgi6Lq8
+https://video.wixstatic.com/video/75466b_1add972bc6694f8ba4e2018717017886/480p/mp4/file.mp4
 #EXTINF:-1 group-title="Kenan & Kel", S01 E06
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/episode/5f6a4780be752300145347f6/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=6ce4497d-7f0b-4c1f-943a-c584dee5b989&deviceVersion=94.0.4606&appVersion=5.105.0-b62a54a1ce532c9291b0579779f0b19221e6d9fc&deviceType=web&deviceMake=chrome&sid=f3810fd8-3b72-11ec-ba1e-0242ac110003&advertisingId=&deviceLat=-2.9366&deviceLon=-40.8389&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjgwZWIzOTdhLTkyN2ItNGJjMy1iMjM2LTZmYTJmNGYzNTg4ZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJmMzgxMGZkOC0zYjcyLTExZWMtYmExZS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS43LjIwNy41MCIsImNpdHkiOiJDYW1vY2ltIiwicG9zdGFsQ29kZSI6IjYyNDAwIiwiY291bnRyeSI6IkJSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJCUiIsImRldmljZUxhdCI6LTIuOTM2NiwiZGV2aWNlTG9uIjotNDAuODM4OSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiOTQuMC40NjA2IiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNS4wLWI2MmE1NGExY2U1MzJjOTI5MWIwNTc5Nzc5ZjBiMTkyMjFlNmQ5ZmMiLCJjbGllbnRJRCI6IjZjZTQ0OTdkLTdmMGItNGMxZi05NDNhLWM1ODRkZWU1Yjk4OSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0ZvcnRhbGV6YSIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2MzU4NDEzNDUsImp0aSI6IjM1MTZmNjAxLTYwZDAtNGQ1MS05NDMyLTBmMWM4ODI0ODVkYiIsImlhdCI6MTYzNTgxMjU0NSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOk5tTmxORFE1TjJRdE4yWXdZaTAwWXpGbUxUazBNMkV0WXpVNE5HUmxaVFZpT1RnNSJ9.MD05HBCvQNjBSdGno31WaYk6PDcDuAeiuNWMMSdU02w
+https://video.wixstatic.com/video/75466b_fc69434e93394b3b933fdd1366dbc07a/480p/mp4/file.mp4
 #EXTINF:-1 group-title="Kenan & Kel", S01 E07
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/episode/5f6a4780be752300145347c3/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=6ce4497d-7f0b-4c1f-943a-c584dee5b989&deviceVersion=94.0.4606&appVersion=5.105.0-b62a54a1ce532c9291b0579779f0b19221e6d9fc&deviceType=web&deviceMake=chrome&sid=f3810fd8-3b72-11ec-ba1e-0242ac110003&advertisingId=&deviceLat=-2.9366&deviceLon=-40.8389&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjgwZWIzOTdhLTkyN2ItNGJjMy1iMjM2LTZmYTJmNGYzNTg4ZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJmMzgxMGZkOC0zYjcyLTExZWMtYmExZS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS43LjIwNy41MCIsImNpdHkiOiJDYW1vY2ltIiwicG9zdGFsQ29kZSI6IjYyNDAwIiwiY291bnRyeSI6IkJSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJCUiIsImRldmljZUxhdCI6LTIuOTM2NiwiZGV2aWNlTG9uIjotNDAuODM4OSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiOTQuMC40NjA2IiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNS4wLWI2MmE1NGExY2U1MzJjOTI5MWIwNTc5Nzc5ZjBiMTkyMjFlNmQ5ZmMiLCJjbGllbnRJRCI6IjZjZTQ0OTdkLTdmMGItNGMxZi05NDNhLWM1ODRkZWU1Yjk4OSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0ZvcnRhbGV6YSIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2MzU4NDEzNDUsImp0aSI6IjM1MTZmNjAxLTYwZDAtNGQ1MS05NDMyLTBmMWM4ODI0ODVkYiIsImlhdCI6MTYzNTgxMjU0NSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOk5tTmxORFE1TjJRdE4yWXdZaTAwWXpGbUxUazBNMkV0WXpVNE5HUmxaVFZpT1RnNSJ9.MD05HBCvQNjBSdGno31WaYk6PDcDuAeiuNWMMSdU02w
+https://video.wixstatic.com/video/75466b_2278f79faf434f74943ba94cba8cc4cb/480p/mp4/file.mp4
 #EXTINF:-1 group-title="Kenan & Kel", S01 E08
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/episode/5f6a4780be75230014534807/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=6ce4497d-7f0b-4c1f-943a-c584dee5b989&deviceVersion=94.0.4606&appVersion=5.105.0-b62a54a1ce532c9291b0579779f0b19221e6d9fc&deviceType=web&deviceMake=chrome&sid=f3810fd8-3b72-11ec-ba1e-0242ac110003&advertisingId=&deviceLat=-2.9366&deviceLon=-40.8389&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjgwZWIzOTdhLTkyN2ItNGJjMy1iMjM2LTZmYTJmNGYzNTg4ZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJmMzgxMGZkOC0zYjcyLTExZWMtYmExZS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS43LjIwNy41MCIsImNpdHkiOiJDYW1vY2ltIiwicG9zdGFsQ29kZSI6IjYyNDAwIiwiY291bnRyeSI6IkJSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJCUiIsImRldmljZUxhdCI6LTIuOTM2NiwiZGV2aWNlTG9uIjotNDAuODM4OSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiOTQuMC40NjA2IiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNS4wLWI2MmE1NGExY2U1MzJjOTI5MWIwNTc5Nzc5ZjBiMTkyMjFlNmQ5ZmMiLCJjbGllbnRJRCI6IjZjZTQ0OTdkLTdmMGItNGMxZi05NDNhLWM1ODRkZWU1Yjk4OSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0ZvcnRhbGV6YSIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2MzU4NDEzNDUsImp0aSI6IjM1MTZmNjAxLTYwZDAtNGQ1MS05NDMyLTBmMWM4ODI0ODVkYiIsImlhdCI6MTYzNTgxMjU0NSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOk5tTmxORFE1TjJRdE4yWXdZaTAwWXpGbUxUazBNMkV0WXpVNE5HUmxaVFZpT1RnNSJ9.MD05HBCvQNjBSdGno31WaYk6PDcDuAeiuNWMMSdU02w&app_name=web&clientDeviceType=0&clientID=6ce4497d-7f0b-4c1f-943a-c584dee5b989&clientModelNumber=1.0.0&country=BR&marketingRegion=BR&sessionID=f3810fd8-3b72-11ec-ba1e-0242ac110003&resumeAt=0&eventVOD=true&masterJWTPassthrough=true
+https://video.wixstatic.com/video/75466b_8b7735758a1144ccbccc89fa5ad6d805/480p/mp4/file.mp4
 #EXTINF:-1 group-title="Kenan & Kel", S01 E09
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/episode/5f6a4783be75230014534860/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=6ce4497d-7f0b-4c1f-943a-c584dee5b989&deviceVersion=94.0.4606&appVersion=5.105.0-b62a54a1ce532c9291b0579779f0b19221e6d9fc&deviceType=web&deviceMake=chrome&sid=f3810fd8-3b72-11ec-ba1e-0242ac110003&advertisingId=&deviceLat=-2.9366&deviceLon=-40.8389&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjgwZWIzOTdhLTkyN2ItNGJjMy1iMjM2LTZmYTJmNGYzNTg4ZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJmMzgxMGZkOC0zYjcyLTExZWMtYmExZS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS43LjIwNy41MCIsImNpdHkiOiJDYW1vY2ltIiwicG9zdGFsQ29kZSI6IjYyNDAwIiwiY291bnRyeSI6IkJSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJCUiIsImRldmljZUxhdCI6LTIuOTM2NiwiZGV2aWNlTG9uIjotNDAuODM4OSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiOTQuMC40NjA2IiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNS4wLWI2MmE1NGExY2U1MzJjOTI5MWIwNTc5Nzc5ZjBiMTkyMjFlNmQ5ZmMiLCJjbGllbnRJRCI6IjZjZTQ0OTdkLTdmMGItNGMxZi05NDNhLWM1ODRkZWU1Yjk4OSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0ZvcnRhbGV6YSIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2MzU4NDEzNDUsImp0aSI6IjM1MTZmNjAxLTYwZDAtNGQ1MS05NDMyLTBmMWM4ODI0ODVkYiIsImlhdCI6MTYzNTgxMjU0NSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOk5tTmxORFE1TjJRdE4yWXdZaTAwWXpGbUxUazBNMkV0WXpVNE5HUmxaVFZpT1RnNSJ9.MD05HBCvQNjBSdGno31WaYk6PDcDuAeiuNWMMSdU02w&app_name=web&clientDeviceType=0&clientID=6ce4497d-7f0b-4c1f-943a-c584dee5b989&clientModelNumber=1.0.0&country=BR&marketingRegion=BR&sessionID=f3810fd8-3b72-11ec-ba1e-0242ac110003&resumeAt=0&eventVOD=true&masterJWTPassthrough=true
+https://video.wixstatic.com/video/75466b_2a2e1567fa444f348a2ad0523d69e27f/480p/mp4/file.mp4
 #EXTINF:-1 group-title="Kenan & Kel", S01 E010
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/episode/5f6a477fbe752300145347ac/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=6ce4497d-7f0b-4c1f-943a-c584dee5b989&deviceVersion=94.0.4606&appVersion=5.105.0-b62a54a1ce532c9291b0579779f0b19221e6d9fc&deviceType=web&deviceMake=chrome&sid=f3810fd8-3b72-11ec-ba1e-0242ac110003&advertisingId=&deviceLat=-2.9366&deviceLon=-40.8389&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjgwZWIzOTdhLTkyN2ItNGJjMy1iMjM2LTZmYTJmNGYzNTg4ZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJmMzgxMGZkOC0zYjcyLTExZWMtYmExZS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS43LjIwNy41MCIsImNpdHkiOiJDYW1vY2ltIiwicG9zdGFsQ29kZSI6IjYyNDAwIiwiY291bnRyeSI6IkJSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJCUiIsImRldmljZUxhdCI6LTIuOTM2NiwiZGV2aWNlTG9uIjotNDAuODM4OSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiOTQuMC40NjA2IiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNS4wLWI2MmE1NGExY2U1MzJjOTI5MWIwNTc5Nzc5ZjBiMTkyMjFlNmQ5ZmMiLCJjbGllbnRJRCI6IjZjZTQ0OTdkLTdmMGItNGMxZi05NDNhLWM1ODRkZWU1Yjk4OSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0ZvcnRhbGV6YSIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2MzU4NDEzNDUsImp0aSI6IjM1MTZmNjAxLTYwZDAtNGQ1MS05NDMyLTBmMWM4ODI0ODVkYiIsImlhdCI6MTYzNTgxMjU0NSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOk5tTmxORFE1TjJRdE4yWXdZaTAwWXpGbUxUazBNMkV0WXpVNE5HUmxaVFZpT1RnNSJ9.MD05HBCvQNjBSdGno31WaYk6PDcDuAeiuNWMMSdU02w&app_name=web&clientDeviceType=0&clientID=6ce4497d-7f0b-4c1f-943a-c584dee5b989&clientModelNumber=1.0.0&country=BR&marketingRegion=BR&sessionID=f3810fd8-3b72-11ec-ba1e-0242ac110003&resumeAt=0&eventVOD=true&masterJWTPassthrough=true
+https://video.wixstatic.com/video/75466b_65d4255458084e10b130af4062342bdf/480p/mp4/file.mp4
 #EXTINF:-1 group-title="Kenan & Kel", S01 E011
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/episode/5f6a4782be7523001453483e/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=6ce4497d-7f0b-4c1f-943a-c584dee5b989&deviceVersion=94.0.4606&appVersion=5.105.0-b62a54a1ce532c9291b0579779f0b19221e6d9fc&deviceType=web&deviceMake=chrome&sid=f3810fd8-3b72-11ec-ba1e-0242ac110003&advertisingId=&deviceLat=-2.9366&deviceLon=-40.8389&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjgwZWIzOTdhLTkyN2ItNGJjMy1iMjM2LTZmYTJmNGYzNTg4ZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJmMzgxMGZkOC0zYjcyLTExZWMtYmExZS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS43LjIwNy41MCIsImNpdHkiOiJDYW1vY2ltIiwicG9zdGFsQ29kZSI6IjYyNDAwIiwiY291bnRyeSI6IkJSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJCUiIsImRldmljZUxhdCI6LTIuOTM2NiwiZGV2aWNlTG9uIjotNDAuODM4OSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiOTQuMC40NjA2IiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNS4wLWI2MmE1NGExY2U1MzJjOTI5MWIwNTc5Nzc5ZjBiMTkyMjFlNmQ5ZmMiLCJjbGllbnRJRCI6IjZjZTQ0OTdkLTdmMGItNGMxZi05NDNhLWM1ODRkZWU1Yjk4OSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0ZvcnRhbGV6YSIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2MzU4NDEzNDUsImp0aSI6IjM1MTZmNjAxLTYwZDAtNGQ1MS05NDMyLTBmMWM4ODI0ODVkYiIsImlhdCI6MTYzNTgxMjU0NSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOk5tTmxORFE1TjJRdE4yWXdZaTAwWXpGbUxUazBNMkV0WXpVNE5HUmxaVFZpT1RnNSJ9.MD05HBCvQNjBSdGno31WaYk6PDcDuAeiuNWMMSdU02w
+https://video.wixstatic.com/video/75466b_0759578f45c442e8b6142e069bc88b4a/480p/mp4/file.mp4
 #EXTINF:-1 group-title="Kenan & Kel", S01 E012
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/episode/5f6a4782be7523001453483e/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=6ce4497d-7f0b-4c1f-943a-c584dee5b989&deviceVersion=94.0.4606&appVersion=5.105.0-b62a54a1ce532c9291b0579779f0b19221e6d9fc&deviceType=web&deviceMake=chrome&sid=f3810fd8-3b72-11ec-ba1e-0242ac110003&advertisingId=&deviceLat=-2.9366&deviceLon=-40.8389&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjgwZWIzOTdhLTkyN2ItNGJjMy1iMjM2LTZmYTJmNGYzNTg4ZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJmMzgxMGZkOC0zYjcyLTExZWMtYmExZS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS43LjIwNy41MCIsImNpdHkiOiJDYW1vY2ltIiwicG9zdGFsQ29kZSI6IjYyNDAwIiwiY291bnRyeSI6IkJSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJCUiIsImRldmljZUxhdCI6LTIuOTM2NiwiZGV2aWNlTG9uIjotNDAuODM4OSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiOTQuMC40NjA2IiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNS4wLWI2MmE1NGExY2U1MzJjOTI5MWIwNTc5Nzc5ZjBiMTkyMjFlNmQ5ZmMiLCJjbGllbnRJRCI6IjZjZTQ0OTdkLTdmMGItNGMxZi05NDNhLWM1ODRkZWU1Yjk4OSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0ZvcnRhbGV6YSIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2MzU4NDEzNDUsImp0aSI6IjM1MTZmNjAxLTYwZDAtNGQ1MS05NDMyLTBmMWM4ODI0ODVkYiIsImlhdCI6MTYzNTgxMjU0NSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOk5tTmxORFE1TjJRdE4yWXdZaTAwWXpGbUxUazBNMkV0WXpVNE5HUmxaVFZpT1RnNSJ9.MD05HBCvQNjBSdGno31WaYk6PDcDuAeiuNWMMSdU02w&app_name=web&clientDeviceType=0&clientID=6ce4497d-7f0b-4c1f-943a-c584dee5b989&clientModelNumber=1.0.0&country=BR&marketingRegion=BR&sessionID=f3810fd8-3b72-11ec-ba1e-0242ac110003&resumeAt=0&eventVOD=true&masterJWTPassthrough=true
+https://video.wixstatic.com/video/75466b_a72f97c8e8084c03b8bf6e557a1d6b7c/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S01 E013
+https://video.wixstatic.com/video/75466b_7962fc0a4dc84773af9056d9b1bc1f00/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S01 E014
+https://video.wixstatic.com/video/75466b_6020e12a79fa4e40aa96b74d7454bf08/360p/mp4/file.mp4
+
+#EXTINF:-1 group-title="Kenan & Kel", S02 E01
+https://video.wixstatic.com/video/75466b_1ae6fcbbd2d943acb1da9881e995b842/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S02 E02
+https://video.wixstatic.com/video/75466b_71fe4152cd494adb94c8f0958e473c1f/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S02 E03
+https://video.wixstatic.com/video/75466b_446d23ee8f7f4544847c016b3ff99860/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S02 E04
+https://video.wixstatic.com/video/75466b_30e5944105084472b7991ea1efca7bf9/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S02 E05
+https://video.wixstatic.com/video/75466b_31ee4c7b34064d5686c1e30ed530422a/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S02 E06
+https://video.wixstatic.com/video/75466b_11ebb65c9ed547d680354ca6a03091b6/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S02 E07
+https://video.wixstatic.com/video/75466b_4557a89c02e64d5e91d17245f886218a/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S02 E08
+https://video.wixstatic.com/video/75466b_12df99e273b8484aaf708634f4473b73/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S02 E09
+https://video.wixstatic.com/video/75466b_9053215bd973424ab884c51d31f1cdcc/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S02 E010
+https://video.wixstatic.com/video/75466b_063bca0963e74683a63a5a27cf1a4f65/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S02 E011
+https://video.wixstatic.com/video/75466b_76d7013bcf5140e1ba176c4535a2e364/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S02 E012
+https://video.wixstatic.com/video/75466b_df691d3a723543239e70b9cfb29df048/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S02 E013
+https://video.wixstatic.com/video/75466b_57dcc1850874456dbf67f9a9a3497aac/480p/mp4/file.mp4
+
+#EXTINF:-1 group-title="Kenan & Kel", S03 E01
+https://video.wixstatic.com/video/75466b_964915064bcb4cfdbfb9d13805e820d4/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S03 E02
+https://video.wixstatic.com/video/75466b_f123dee996d94c1bbfd222e148868bd8/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S03 E03
+https://video.wixstatic.com/video/75466b_9925e29d16a34a63915c4553180485b3/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S03 E04
+https://video.wixstatic.com/video/75466b_4e7b2da115e647f9bb7867cc5a2cca52/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S03 E05
+https://video.wixstatic.com/video/75466b_02f6e64794824ebb96d4e2eaa82ffbec/360p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S03 E06
+https://video.wixstatic.com/video/75466b_fd8e21a7fff0480c925d628c6c9c793e/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S03 E07
+https://video.wixstatic.com/video/75466b_20f755b99e0246648da5125f09d99d48/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S03 E08
+https://video.wixstatic.com/video/75466b_982febcc2c304db8a1a6fb612584c6a5/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S03 E09
+https://video.wixstatic.com/video/75466b_712584d97ead49e9bb7c5028506e13d5/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S03 E010
+https://video.wixstatic.com/video/75466b_d051f2bd322f4fac81535892430c3987/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S03 E011
+https://video.wixstatic.com/video/75466b_beb11132ae1348debca8e7189e05bf75/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S03 E012
+https://video.wixstatic.com/video/75466b_3b01166ee8db441e89126a2c94039858/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S03 E013
+https://video.wixstatic.com/video/75466b_cdb9e3679fe64002a707b382c4940490/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S03 E014
+https://video.wixstatic.com/video/75466b_fa232a4c940b4d5eb430e339faf5451e/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S03 E015
+https://video.wixstatic.com/video/75466b_34ef27751b504035b20dc0624f962b42/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S03 E016
+https://video.wixstatic.com/video/75466b_2f888a7828f24f89b4dd2fc55cecec3a/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S03 E017
+https://video.wixstatic.com/video/75466b_1c2befeb3942445ab91058db8aa701e8/360p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S03 E018
+https://video.wixstatic.com/video/75466b_7627acea35e3423bb73d45150250af24/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S03 E019
+https://video.wixstatic.com/video/75466b_3d97422187d844e2bbf77daf51080b1c/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S03 E020
+https://video.wixstatic.com/video/75466b_014ef96681f74eecafd4afe5a50692a2/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S03 E021
+https://video.wixstatic.com/video/75466b_64b6543460664ae482afaefe25624900/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S03 E022
+https://video.wixstatic.com/video/75466b_219008b4254f4b32b1d5ba2b60e58694/480p/mp4/file.mp4
+
+#EXTINF:-1 group-title="Kenan & Kel", S04 E01
+https://video.wixstatic.com/video/75466b_e3cbc272b4dd4e1f9336973ee9ac3779/360p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S04 E02
+https://video.wixstatic.com/video/75466b_de307fec5259413ab50d231135b42020/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S04 E03
+https://video.wixstatic.com/video/75466b_ec5daa08d136485d9b28bdff7d3d8a34/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S04 E04
+https://video.wixstatic.com/video/75466b_325872f80abd42469d0115e2caf5f328/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S04 E05
+https://video.wixstatic.com/video/75466b_383e0ef8fd654b36b24202ff6817a4d5/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S04 E06
+https://video.wixstatic.com/video/75466b_f9173eb2d4784735bfac48cb0f6634e8/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S04 E07
+https://video.wixstatic.com/video/75466b_277b72e3811d4c8b8f11ea699cfecead/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S04 E08
+https://video.wixstatic.com/video/75466b_d2c5317e5842439f96fc6da20a2b0576/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S04 E09
+https://video.wixstatic.com/video/75466b_f45ca08e521546bda5accb650352d611/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S04 E010
+https://video.wixstatic.com/video/75466b_65b25ef6c8444a588da3131e97c648f4/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S04 E011
+https://video.wixstatic.com/video/75466b_f86c7e77330f47e889c707b864bc8e30/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Kenan & Kel", S04 E012
+https://video.wixstatic.com/video/75466b_ee6f1ce40e774a0093068aca596a65d9/360p/mp4/file.mp4
+
 
 #EXTINF:-1 group-title="Paraíso", S01 E01
 https://video.wixstatic.com/video/cc7aad_20efd3affbf7429abd8392ccdb8b984d/720p/mp4/file.mp4
@@ -1275,4 +1377,49 @@ https://video.wixstatic.com/video/cc7aad_4542fd3d2a584d4d98e1f7562293ad46/720p/m
 https://video.wixstatic.com/video/cc7aad_2cf17a52b02d4c71ae7c52137f79bbdd/720p/mp4/file.mp4
 #EXTINF:-1 group-title="Invasão", S01 E03
 https://video.wixstatic.com/video/cc7aad_fb9d40896b0344e592cab4250db0b0a2/720p/mp4/file.mp4
+
+#EXTINF:-1 group-title="Johnny Test", S01 E01
+https://video.wixstatic.com/video/cc7aad_f3a318f230224ec49e0327678344e03c/720p/mp4/file.mp4
+#EXTINF:-1 group-title="Johnny Test", S01 E02
+https://video.wixstatic.com/video/cc7aad_1807a3e302dd4a81beac553e5db5e058/720p/mp4/file.mp4
+#EXTINF:-1 group-title="Johnny Test", S01 E03
+https://video.wixstatic.com/video/cc7aad_66e4736c0c5f4166a977ef84cb9ccaf2/720p/mp4/file.mp4
+#EXTINF:-1 group-title="Johnny Test", S01 E04
+https://video.wixstatic.com/video/cc7aad_1bf8850080244316b0625eb1a20beb6c/720p/mp4/file.mp4
+#EXTINF:-1 group-title="Johnny Test", S01 E05
+https://video.wixstatic.com/video/cc7aad_2a6df1c304be40c7b639c2c63529c70f/720p/mp4/file.mp4
+#EXTINF:-1 group-title="Johnny Test", S01 E06
+https://video.wixstatic.com/video/cc7aad_ec177e4031644a5aad934f5885fe5509/720p/mp4/file.mp4
+#EXTINF:-1 group-title="Johnny Test", S01 E07
+https://video.wixstatic.com/video/cc7aad_3439a4b23e3d4461a0fe1783269c46fe/480p/mp4/file.mp4
+#EXTINF:-1 group-title="Johnny Test", S01 E08
+https://video.wixstatic.com/video/cc7aad_9a593647406c4305a5105a3c97057340/720p/mp4/file.mp4
+#EXTINF:-1 group-title="Johnny Test", S01 E09
+https://video.wixstatic.com/video/cc7aad_449c03ab954b4b5b90e4355c1aeb7954/720p/mp4/file.mp4
+#EXTINF:-1 group-title="Johnny Test", S01 E010
+https://video.wixstatic.com/video/cc7aad_d92fd016c140461db8a3846c89b5f31b/720p/mp4/file.mp4
+#EXTINF:-1 group-title="Johnny Test", S01 E011
+https://video.wixstatic.com/video/cc7aad_f602133d6191441ba4aabaf25928468e/720p/mp4/file.mp4
+#EXTINF:-1 group-title="Johnny Test", S01 E012
+https://video.wixstatic.com/video/cc7aad_7c84446014df4bc7a925fd6330ff5ce7/720p/mp4/file.mp4
+#EXTINF:-1 group-title="Johnny Test", S01 E013
+https://video.wixstatic.com/video/cc7aad_fc44c0fa60964930b3db443cb024f932/720p/mp4/file.mp4
+#EXTINF:-1 group-title="Johnny Test", S01 E014
+https://video.wixstatic.com/video/cc7aad_15bf8198eced4c5ab87b5886b4e6d417/720p/mp4/file.mp4
+#EXTINF:-1 group-title="Johnny Test", S01 E015
+https://video.wixstatic.com/video/cc7aad_851a966868524145ae01f296b55b3a13/720p/mp4/file.mp4
+#EXTINF:-1 group-title="Johnny Test", S01 E016
+https://video.wixstatic.com/video/cc7aad_426848c104d3431289b1517c1ae76b9a/720p/mp4/file.mp4
+#EXTINF:-1 group-title="Johnny Test", S01 E017
+https://video.wixstatic.com/video/cc7aad_48585fda410c472f965fad3c3fb379a9/720p/mp4/file.mp4
+#EXTINF:-1 group-title="Johnny Test", S01 E018
+https://video.wixstatic.com/video/cc7aad_a1665a1330ea4d2c8890c110106f3898/720p/mp4/file.mp4
+#EXTINF:-1 group-title="Johnny Test", S01 E019
+https://video.wixstatic.com/video/cc7aad_44490c33714c4c1f97d46066869b35be/720p/mp4/file.mp4
+#EXTINF:-1 group-title="Johnny Test", S01 E020
+https://video.wixstatic.com/video/cc7aad_afe514a7360340569f6965c1c436adc6/720p/mp4/file.mp4
+
+
+
+
 

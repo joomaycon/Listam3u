@@ -2,8 +2,16 @@
 #EXTINF:-1 , JOON Lista
 https://notname.com/mvjf.mp4
 
-
 ####################################### Filmes
+
+#EXTINF:-1 group-title="FILMES", The Deep House 2021
+https://video.wixstatic.com/video/997c02_3e89aef6402a4d5aae22890bdfcafcec/720p/mp4/file.mp4
+#EXTINF:-1 group-title="FILMES",Nova Ordem Espacial 2021
+https://video.wixstatic.com/video/997c02_24763de184fe4cdead9f21897e1c4d3d/720p/mp4/file.mp4
+#EXTINF:-1 group-title="FILMES",Shang-Chi e a Lenda dos Dez Anéis 2021
+https://video.wixstatic.com/video/997c02_3e432b6773f64886903fd631e23a0243/720p/mp4/file.mp4
+#EXTINF:-1 group-title="FILMES",Vampiros X The Bronx
+https://video.wixstatic.com/video/997c02_40b90ae502a94966aedf0ba2bdf8706e/720p/mp4/file.mp4
 
 #EXTINF:-1 group-title="FILMES", Conspiração Implacável 2021
 https://video.wixstatic.com/video/997c02_767e529b5f2646b59ae3082bc2da8d3b/720p/mp4/file.mp4

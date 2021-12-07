@@ -5,33 +5,39 @@ https://notname.com/mvjf.mp4
 ####################################### Filmes
 
 
- 
+
+#EXTINF:-1 group-title="FILMES", 
+#EXTINF:-1 group-title="FILMES",  
+#EXTINF:-1 group-title="FILMES", Predadores 2010
+https://video.wixstatic.com/video/4f65a8_b31fcd99efe54b1391a9aa285e39a676/720p/mp4/file.mp4
+#EXTINF:-1 group-title="FILMES",B13: 13º Distrito 2004
+ https://video.wixstatic.com/video/4f65a8_47c08478e1b04361a81c1247425b8363/720p/mp4/file.mp4
+#EXTINF:-1 group-title="FILMES",13° Distrito - Ultimato 2009
+ https://video.wixstatic.com/video/4f65a8_9572e96b1d754d58a8e607426214311e/720p/mp4/file.mp4
+ #EXTINF:-1 group-title="FILMES", Circo dos Horrores - Aprendiz de Vampiro 
+ https://video.wixstatic.com/video/4f65a8_73922ef7d3f04df8abeecbd4a1f662e1/720p/mp4/file.mp4
 #EXTINF:-1 group-title="FILMES", Segredos nas Paredes 2021
-https://video.wixstatic.com/video/4f65a8_77d04c3e7b8b459ba4bb949958cb0b94/720p/mp4/file.mp4
+https://video.wixstatic.com/video/4f65a8_77d04c3e7b8b459ba4bb949958cb0b94/720p/mp4/file.mp4 
 #EXTINF:-1 group-title="FILMES",Vingança & Castigo (2021)
 http://cloud.shipblackpoint.tk/token=2mh1638296438/flm21/VingancaECastigo2021.mp4 
 #EXTINF:-1 group-title="FILMES",Uma Noite de Crimes : A Fronteira
-https://video.wixstatic.com/video/997c02_7717e24959d744e6a33058aaf80fceb1/720p/mp4/file.mp4 
+https://video.wixstatic.com/video/4f65a8_62b24ce541024c4096a697cf6531a2db/720p/mp4/file.mp4
 #EXTINF:-1 group-title="FILMES", Venom: Tempo de Carnificina (2021)
-https://video.wixstatic.com/video/997c02_b9d8d5bed95e4e5c9269a6efdf8f678d/720p/mp4/file.mp4
-#EXTINF:-1 group-title="FILMES", Stillwater: Em Busca da Verdade (2021)
-https://video.wixstatic.com/video/997c02_35a3ed9cb3894d1e9efb4451daf95eee/720p/mp4/file.mp4
+https://video.wixstatic.com/video/4f65a8_eed14160794e4aa5860fad672b0f5fab/720p/mp4/file.mp4
+
 #EXTINF:-1 group-title="FILMES", Homem ao Mar (2018)
 https://video.wixstatic.com/video/997c02_90bb192f3d5749d3985aeb969d29bb1e/480p/mp4/file.mp4
 #EXTINF:-1 group-title="FILMES",A Princesa e a Plebeia: As Vilãs Também Amam (2021)
 https://video.wixstatic.com/video/997c02_cee166d5924540fcb04dfaf770ae2f92/720p/mp4/file.mp4
 #EXTINF:-1 group-title="FILMES",O Touro Ferdinando (2021)
-https://video.wixstatic.com/video/cc7aad_04980bdd96a54563a7b3b75f00e0d9bc/720p/mp4/file.mp4
-#EXTINF:-1 group-title="FILMES",Shang-Chi e a Lenda dos Dez Anéis 2021
-https://video.wixstatic.com/video/997c02_54d8e6158be3477f849f42e37e18e320/720p/mp4/file.mp4
-#EXTINF:-1 group-title="FILMES", Sexta-feira Em Apuros 1995
-https://video.wixstatic.com/video/997c02_c4f2c14c7fb347a48646ff44da9ed3ed/720p/mp4/file.mp4
+https://video.wixstatic.com/video/cc7aad_04980bdd96a54563a7b3b75f00e0d9bc/720p/mp4/file.mp4.
+
 #EXTINF:-1 group-title="FILMES", Efeito Borboleta 2004
 http://booster.auracineapp.fun/aurorinha/efeitoborboleta.mp4
 #EXTINF:-1 group-title="FILMES", Tempo 2021
-https://video.wixstatic.com/video/cc7aad_0f7caad94090497e9ad0dd85338e4800/720p/mp4/file.mp4
+https://video.wixstatic.com/video/cc7aad_0f7caad94090497e9ad0dd85338e4800/720p/mp4/file.mp4 
 #EXTINF:-1 group-title="FILMES", Sem Conexão 2020
-https://video.wixstatic.com/video/cc7aad_eee6ba4832cb48c498bf7cf90df720f9/720p/mp4/file.mp4
+https://video.wixstatic.com/video/cc7aad_eee6ba4832cb48c498bf7cf90df720f9/720p/mp4/file.mp4 
 #EXTINF:-1 group-title="FILMES", Sem Conexão: Parte 2 2021
 https://video.wixstatic.com/video/cc7aad_2b9938db85b24ee398e762c2b6246abe/720p/mp4/file.mp4
 #EXTINF:-1 group-title="FILMES", Duna 2021
@@ -1483,6 +1489,9 @@ http://flush7x.celestinhasabbath.fun/hd7/Invasao/1Temp/06.mp4
 http://flush7x.celestinhasabbath.fun/hd7/Invasao/1Temp/07.mp4
 #EXTINF:-1 group-title="Invasão", S01 E08
 http://flush7x.celestinhasabbath.fun/hd7/Invasao/1Temp/08.mp4
+#EXTINF:-1 group-title="Invasão", S01 E09
+http://flush7x.celestinhasabbath.fun/hd7/Invasao/1Temp/09..mp4
+
 
 ####################################### Johnny Test
 
@@ -1705,10 +1714,11 @@ https://video.wixstatic.com/video/997c02_9a5f89cb794842e3993e5aba48c8bed0/720p/m
 #EXTINF:-1 group-title="Chucky a Série", S01 E05
 https://video.wixstatic.com/video/997c02_67cf07566f4f4a81bb3e293b3d6c7cd3/720p/mp4/file.mp4
 #EXTINF:-1 group-title="Chucky a Série", S01 E06
-http://flush14x.celestshow.fun/hd14/Chucky/1TempL/06.mp4
+http://flush14x.celestshow.fun/hd14/Chucky/1Temp/06.mp4
 #EXTINF:-1 group-title="Chucky a Série", S01 E07
-http://flush14x.celestshow.fun/hd14/Chucky/1TempL/07.mp4
-
+http://flush14x.celestshow.fun/hd14/Chucky/1Temp/07.mp4
+#EXTINF:-1 group-title="Chucky a Série", S01 E08
+http://flush14x.celestshow.fun/hd14/Chucky/1Temp/08.mp4 
 
 
 ##########################################  As Aventuras de Jackie Chan
@@ -2204,7 +2214,8 @@ http://flush13x.kamperaura.fun/hd13/DrBrain/1Temp/02.mp4
 http://flush13x.kamperaura.fun/hd13/DrBrain/1Temp/03.mp4
 #EXTINF:-1 group-title="Dr. Brain",S01 E04
 http://flush13x.kamperaura.fun/hd13/DrBrain/1Temp/04.mp4
-
+#EXTINF:-1 group-title="Dr. Brain",S01 E05
+http://flush13x.kamperaura.fun/hd13/DrBrain/1Temp/05 .mp4
 
 
 

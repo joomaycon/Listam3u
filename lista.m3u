@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U size="big"
 #EXTINF:-1 , JOON Lista
 https://notname.com/mvjf.mp4
 
@@ -3231,41 +3231,41 @@ https://cdn1.networkf1lm3s.live/series/?u=-s-e-r-i-e-s-/75219/1/9.mp4
 #EXTINF:-1 group-title="9-1-1",S01 EP10
 http://flush6x.aurinhasabbath.fun/hd6/911/1Temp/10.mp4
 
-#EXTINF:-1 group-title="9-1-1",S02 EP01
+#EXTINF:-1 type="video" group-title="9-1-1",S02 EP01
 https://cdn1.networkf1lm3s.live/series/?u=-s-e-r-i-e-s-/75219/2/1.mp4
-#EXTINF:-1 group-title="9-1-1",S02 EP02
+#EXTINF:-1 type="video" group-title="9-1-1",S02 EP02
 https://cdn1.networkf1lm3s.live/series/?u=-s-e-r-i-e-s-/75219/2/2.mp4
-#EXTINF:-1 group-title="9-1-1",S02 EP03
+#EXTINF:-1 type="video" group-title="9-1-1",S02 EP03
 https://cdn1.networkf1lm3s.live/series/?u=-s-e-r-i-e-s-/75219/2/3.mp4
-#EXTINF:-1 group-title="9-1-1",S02 EP04
+#EXTINF:-1 type="video" group-title="9-1-1",S02 EP04
 https://cdn1.networkf1lm3s.live/series/?u=-s-e-r-i-e-s-/75219/2/4.mp4
-#EXTINF:-1 group-title="9-1-1",S02 EP05
+#EXTINF:-1 type="video" group-title="9-1-1",S02 EP05
 https://cdn1.networkf1lm3s.live/series/?u=-s-e-r-i-e-s-/75219/2/5.mp4
-#EXTINF:-1 group-title="9-1-1",S02 EP06
+#EXTINF:-1 type="video" group-title="9-1-1",S02 EP06
 https://cdn1.networkf1lm3s.live/series/?u=-s-e-r-i-e-s-/75219/2/6.mp4
-#EXTINF:-1 group-title="9-1-1",S02 EP07
+#EXTINF:-1 type="video" group-title="9-1-1",S02 EP07
 https://cdn1.networkf1lm3s.live/series/?u=-s-e-r-i-e-s-/75219/2/7.mp4
-#EXTINF:-1 group-title="9-1-1",S02 EP08
+#EXTINF:-1 type="video" group-title="9-1-1",S02 EP08
 https://cdn1.networkf1lm3s.live/series/?u=-s-e-r-i-e-s-/75219/2/8.mp4
-#EXTINF:-1 group-title="9-1-1",S02 EP09
+#EXTINF:-1 type="video" group-title="9-1-1",S02 EP09
 https://cdn1.networkf1lm3s.live/series/?u=-s-e-r-i-e-s-/75219/2/9.mp4
-#EXTINF:-1 group-title="9-1-1",S02 EP10
+#EXTINF:-1 type="video" group-title="9-1-1",S02 EP10
 https://cdn1.networkf1lm3s.live/series/?u=-s-e-r-i-e-s-/75219/2/10.mp4
-#EXTINF:-1 group-title="9-1-1",S02 EP11
+#EXTINF:-1 type="video" group-title="9-1-1",S02 EP11
 https://cdn1.networkf1lm3s.live/series/?u=-s-e-r-i-e-s-/75219/2/11.mp4
-#EXTINF:-1 group-title="9-1-1",S02 EP12
+#EXTINF:-1 type="video" group-title="9-1-1",S02 EP12
 https://cdn1.networkf1lm3s.live/series/?u=-s-e-r-i-e-s-/75219/2/12.mp4
-#EXTINF:-1 group-title="9-1-1",S02 EP13
+#EXTINF:-1 type="video" group-title="9-1-1",S02 EP13
 https://cdn1.networkf1lm3s.live/series/?u=-s-e-r-i-e-s-/75219/2/13.mp4
-#EXTINF:-1 group-title="9-1-1",S02 EP14
+#EXTINF:-1 type="video" group-title="9-1-1",S02 EP14
 https://cdn1.networkf1lm3s.live/series/?u=-s-e-r-i-e-s-/75219/2/14.mp4
-#EXTINF:-1 group-title="9-1-1",S02 EP15
+#EXTINF:-1 type="video" group-title="9-1-1",S02 EP15
 https://cdn1.networkf1lm3s.live/series/?u=-s-e-r-i-e-s-/75219/2/15.mp4
-#EXTINF:-1 group-title="9-1-1",S02 EP16
+#EXTINF:-1 type="video" group-title="9-1-1",S02 EP16
 https://cdn1.networkf1lm3s.live/series/?u=-s-e-r-i-e-s-/75219/2/16.mp4
-#EXTINF:-1 group-title="9-1-1",S02 EP17
+#EXTINF:-1 type="video" group-title="9-1-1",S02 EP17
 https://cdn1.networkf1lm3s.live/series/?u=-s-e-r-i-e-s-/75219/2/17.mp4
-#EXTINF:-1 group-title="9-1-1",S02 EP18
+#EXTINF:-1 type="video" group-title="9-1-1",S02 EP18
 https://cdn1.networkf1lm3s.live/series/?u=-s-e-r-i-e-s-/75219/2/18.mp4
 
 
